@@ -1,6 +1,12 @@
 # HTranslator
 Multi Translation tool for web
-# HOw To: 
+
+# Important note:
+PLEASE UPDATE YOUR OWN CHATGPT API.
+my-chrome-extension\src\utils >chatservis.js
+API_KEY:''
+
+# How To: 
 First, unzip htranslator.zip:
 
 Right-click htranslator.zip
